@@ -12,3 +12,14 @@ If any of these styling issues are discovered, I (Meta), will work on them as th
 - validate_email.html (2/3 - new user registration email validation example)
 - add_first_character.html (3/3 - new user registration, character addition example)
 - inc/nav.html (fixed navigation and banner, include into pages)
+
+# TO-DO PAGES
+// BASIC PAGES
+- about_us
+- members_list
+- faq
+- community_rules
+//USER PAGES
+- user_profile
+//FORMS
+- submit_article
