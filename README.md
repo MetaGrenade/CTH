@@ -14,6 +14,8 @@ If any of these styling issues are discovered, I (Meta), will work on them as th
 - inc/nav.html (fixed navigation and banner, include into pages)
 
 # TO-DO PAGES
+This is an ongoing list of pages that still need to be fleshed out.
+
 **BASIC PAGES**
 - about_us
 - members_list
@@ -22,6 +24,8 @@ If any of these styling issues are discovered, I (Meta), will work on them as th
 
 **USER PAGES**
 - user_profile
+- ...
 
 **FORMS**
 - submit_article
+- ...
