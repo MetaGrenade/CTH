@@ -19,7 +19,9 @@ If any of these styling issues are discovered, I (Meta), will work on them as th
 - members_list
 - faq
 - community_rules
+
 **USER PAGES**
 - user_profile
+
 **FORMS**
 - submit_article
