@@ -14,12 +14,12 @@ If any of these styling issues are discovered, I (Meta), will work on them as th
 - inc/nav.html (fixed navigation and banner, include into pages)
 
 # TO-DO PAGES
-// BASIC PAGES
+**BASIC PAGES**
 - about_us
 - members_list
 - faq
 - community_rules
-//USER PAGES
+**USER PAGES**
 - user_profile
-//FORMS
+**FORMS**
 - submit_article
